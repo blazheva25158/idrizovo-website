@@ -10,6 +10,7 @@
 <body id="racni-izrabotki" class="overflow-x-hidden">
     
 
+
     <div class="bg-[url(./images1.jpg)] h-screen bg-cover bg-center relative">
         <div class="absolute inset-0 bg-black/30"></div>
         <h1 class="absolute top-1/4 left-10 md:top-40 md:left-40 text-5xl md:text-6xl font-bold text-white">Рачни</h1>
